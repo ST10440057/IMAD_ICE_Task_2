@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMAD ice task 2</string>
+    <string name="Title">Tracking app</string>
+    <string name="Income">Income: </string>
+    <string name="Explense">Expenses: </string>
+    <string name="IncomeBTN">Income</string>
+    <string name="ExpenseBTN">Expense</string>
+    <string name="Balance">Balance: </string>
+
+</resources>
